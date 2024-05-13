@@ -7,14 +7,16 @@
   "id": "code-server",
   "tipi_version": 29,
   "version": "4.89.0",
-  "categories": [
+  "categories":
+  [
     "development"
   ],
   "description": "",
   "short_desc": "Code-server is VS Code running on a remote server, accessible through the browser.",
   "author": "https://github.com/coder",
   "source": "https://github.com/linuxserver/docker-code-server",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "password",
       "label": "Password",
@@ -32,8 +34,10 @@
       "env_variable": "CODESERVER_SUDO_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

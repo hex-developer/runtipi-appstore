@@ -7,14 +7,16 @@
   "description": "LobeChat is an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible (Function Call) plugin system.",
   "tipi_version": 148,
   "version": "0.158.0",
-  "categories": [
+  "categories":
+  [
     "ai"
   ],
   "short_desc": "LLM chatbot framework",
   "author": "https://github.com/lobehub",
   "source": "https://github.com/lobehub/lobe-chat",
   "website": "https://github.com/lobehub/lobe-chat",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "OpenAI API Key",
@@ -41,8 +43,10 @@
       "env_variable": "ACCESS_CODE"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1702527322000
 }

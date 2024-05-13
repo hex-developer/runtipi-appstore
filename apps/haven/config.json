@@ -7,13 +7,17 @@
   "id": "haven",
   "tipi_version": 2,
   "version": "a0280ce",
-  "categories": ["social"],
+  "categories":
+  [
+    "social"
+  ],
   "description": "Self-hostable private blogging",
   "short_desc": "Self-hostable private blogging",
   "author": "mawise",
   "source": "https://github.com/havenweb/haven",
   "website": "https://havenweb.org/index.html",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Email",
@@ -34,5 +38,9 @@
       "env_variable": "HAVEN_DB_PASSWORD"
     }
   ],
-  "supported_architectures": ["amd64"]
+  "supported_architectures":
+  [
+    "amd64"
+  ],
+  "created": 1664489634000
 }

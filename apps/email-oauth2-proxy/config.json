@@ -8,7 +8,8 @@
   "id": "email-oauth2-proxy",
   "tipi_version": 7,
   "version": "2024.04.24",
-  "categories": [
+  "categories":
+  [
     "utilities",
     "security"
   ],
@@ -17,8 +18,10 @@
   "author": "simonrob",
   "source": "https://github.com/simonrob/email-oauth2-proxy",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1704400276000
 }

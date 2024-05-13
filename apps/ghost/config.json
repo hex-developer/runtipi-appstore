@@ -7,7 +7,8 @@
   "id": "ghost",
   "tipi_version": 88,
   "version": "5.82.2",
-  "categories": [
+  "categories":
+  [
     "social",
     "media"
   ],
@@ -15,7 +16,8 @@
   "short_desc": "Ghost - Turn your audience into a business.",
   "author": "TryGhost",
   "source": "https://github.com/TryGhost/Ghost",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Ghost Database password",
@@ -58,8 +60,10 @@
       "env_variable": "GHOST_MAIL_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659554950000
 }

@@ -7,14 +7,16 @@
   "description": "Your friendliest open source all-in-one automation tool.",
   "tipi_version": 25,
   "version": "0.26.1",
-  "categories": [
+  "categories":
+  [
     "automation"
   ],
   "short_desc": "True zapier alternative.",
   "author": "Activepieces",
   "source": "https://github.com/activepieces/activepieces",
   "website": "https://www.activepieces.com/",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Activepieces postgres password.",
@@ -40,8 +42,10 @@
       "env_variable": "AP_JWT_SECRET"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1699720073000
 }

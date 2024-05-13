@@ -7,7 +7,8 @@
   "id": "readarr",
   "tipi_version": 18,
   "version": "0.3.27-nightly",
-  "categories": [
+  "categories":
+  [
     "books",
     "media"
   ],
@@ -16,8 +17,10 @@
   "author": "readarr.com",
   "source": "https://github.com/Readarr/Readarr",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

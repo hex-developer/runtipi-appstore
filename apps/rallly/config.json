@@ -8,17 +8,20 @@
   "description": "Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.",
   "tipi_version": 5,
   "version": "3.7.0",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "short_desc": "Scheduling and collaboration tool",
   "author": "lukevella",
   "source": "https://github.com/lukevella/rallly",
   "website": "https://rallly.co",
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "amd64"
   ],
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "min": 32,
@@ -102,5 +105,6 @@
       "required": false,
       "env_variable": "RALLLY_SMTP_PWD"
     }
-  ]
+  ],
+  "created": 1703250590000
 }

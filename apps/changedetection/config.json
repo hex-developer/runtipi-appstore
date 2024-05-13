@@ -7,7 +7,8 @@
   "description": "The best and simplest free open source website change detection, restock monitor and notification service.",
   "tipi_version": 20,
   "version": "0.45.22",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "short_desc": "Website change detection.",
@@ -15,8 +16,10 @@
   "source": "https://github.com/dgtlmoon/changedetection.io",
   "website": "https://changedetection.io/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1696179550000
 }

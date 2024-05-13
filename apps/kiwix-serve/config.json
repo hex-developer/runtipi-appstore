@@ -7,7 +7,8 @@
   "id": "kiwix-serve",
   "tipi_version": 2,
   "version": "3.7.0-2",
-  "categories": [
+  "categories":
+  [
     "media"
   ],
   "description": "Kiwix Server is a web server for hosting .zim files",
@@ -16,8 +17,10 @@
   "source": "https://github.com/kiwix/kiwix-tools/",
   "website": "https://kiwix.org/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1695828841000
 }

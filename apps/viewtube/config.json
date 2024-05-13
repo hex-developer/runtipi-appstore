@@ -7,7 +7,8 @@
   "id": "viewtube",
   "tipi_version": 10,
   "version": "0.15.3",
-  "categories": [
+  "categories":
+  [
     "media"
   ],
   "description": "The open source, privacy-conscious way to enjoy your favorite YouTube content.",
@@ -15,8 +16,10 @@
   "author": "ViewTube",
   "source": "https://github.com/ViewTube/viewtube",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1693269936000
 }

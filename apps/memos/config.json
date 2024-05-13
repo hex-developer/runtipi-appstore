@@ -7,7 +7,8 @@
   "id": "memos",
   "tipi_version": 28,
   "version": "0.21.0",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Memo hub for knowledge management and collaboration.",
@@ -16,8 +17,10 @@
   "website": "https://usememos.com/",
   "source": "https://github.com/usememos/memos",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1668527046000
 }

@@ -4,22 +4,26 @@
   "available": true,
   "exposable": true,
   "port": 8089,
-  "requirements": {
-    "ports": [
+  "requirements":
+  {
+    "ports":
+    [
       51413
     ]
   },
   "id": "transmission",
   "tipi_version": 9,
   "version": "4.0.5",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Transmission is a fast, easy, and free BitTorrent client.",
   "short_desc": "Fast, easy, and free BitTorrent client",
   "author": "Transmission Project",
   "source": "https://github.com/transmission/transmission",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Username",
@@ -37,8 +41,10 @@
       "env_variable": "TRANSMISSION_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

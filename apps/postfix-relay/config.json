@@ -8,21 +8,24 @@
   "id": "postfix-relay",
   "tipi_version": 1,
   "version": "1.4.0",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Simple SMTP relay for environments where you may have private servers with no Internet connection.",
   "short_desc": "Simple SMTP relay for environments where you may have private servers with no Internet connection.",
   "author": "shamil",
   "source": "https://github.com/shamil/docker-postfix-relay",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Accepted Networks",
       "hint": "Space delimited list of networks to accept mail from.",
       "placeholder": "192.168.0.0/16 172.16.0.0/12 10.0.0.0/8",
       "env_variable": "RELAY_ACCEPTED_NETWORKS"
-    },{
+    },
+    {
       "type": "text",
       "label": "SMTP Host",
       "hint": "External relay DNS name.",
@@ -69,5 +72,9 @@
       "env_variable": "RELAY_USE_TLS"
     }
   ],
-  "supported_architectures": ["amd64"]
+  "supported_architectures":
+  [
+    "amd64"
+  ],
+  "created": 1691619780000
 }

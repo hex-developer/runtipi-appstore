@@ -7,7 +7,8 @@
   "id": "cloudflared",
   "tipi_version": 10,
   "version": "2024.4.1",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Cloudflared-web is a docker image that packages both cloudflared cli and a no-frills Web UI for easy starting/stopping of cloudflare tunnel.",
@@ -15,8 +16,10 @@
   "author": "WisdomSky",
   "source": "https://github.com/WisdomSky/Cloudflared-web",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1695794028000
 }

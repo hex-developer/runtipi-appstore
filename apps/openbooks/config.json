@@ -8,7 +8,8 @@
   "tipi_version": 3,
   "url_suffix": "/openbooks/",
   "version": "4.5.0",
-  "categories": [
+  "categories":
+  [
     "media",
     "books"
   ],
@@ -16,7 +17,8 @@
   "short_desc": "Search and Download eBooks",
   "author": "https://github.com/evan-buss",
   "source": "https://github.com/evan-buss/openbooks",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "IRC Username",
@@ -28,5 +30,10 @@
       "env_variable": "OPENBOOKS_IRC_USERNAME"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1677693556000
 }

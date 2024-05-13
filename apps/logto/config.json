@@ -8,14 +8,16 @@
   "tipi_version": 17,
   "version": "1.15.0",
   "force_expose": true,
-  "categories": [
+  "categories":
+  [
     "security"
   ],
   "description": "Logto is a cost-effective open-source alternative to Auth0.",
   "short_desc": "Logto is a cost-effective open-source alternative to Auth0. ",
   "author": "Logto Team",
   "source": "https://github.com/logto-io/logto",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Database Password",
@@ -30,8 +32,10 @@
       "env_variable": "LOGTO_ADMIN_URL"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1684245728000
 }

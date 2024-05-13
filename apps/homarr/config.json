@@ -7,7 +7,8 @@
   "id": "homarr",
   "tipi_version": 29,
   "version": "0.15.3",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "A homepage for your server.",
@@ -15,7 +16,8 @@
   "author": "ajnart",
   "source": "https://github.com/ajnart/homarr",
   "website": "https://discord.gg/C2WTXkzkwK",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "password",
       "label": "Password",
@@ -25,8 +27,10 @@
       "env_variable": "HOMARR_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

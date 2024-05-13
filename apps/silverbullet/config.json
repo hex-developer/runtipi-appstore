@@ -7,7 +7,8 @@
   "id": "silverbullet",
   "tipi_version": 8,
   "version": "0.7.7",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "SilverBullet aims to be your workshop for the mind",
@@ -15,7 +16,8 @@
   "author": "zefhemel",
   "source": "https://github.com/silverbulletmd/silverbullet",
   "website": "https://silverbullet.md",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Username",
@@ -33,8 +35,10 @@
       "env_variable": "SB_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1706085256000
 }

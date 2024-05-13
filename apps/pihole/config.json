@@ -4,8 +4,10 @@
   "available": true,
   "exposable": true,
   "port": 8081,
-  "requirements": {
-    "ports": [
+  "requirements":
+  {
+    "ports":
+    [
       53
     ]
   },
@@ -13,7 +15,8 @@
   "tipi_version": 16,
   "version": "2024.03.2",
   "url_suffix": "/admin",
-  "categories": [
+  "categories":
+  [
     "network",
     "security"
   ],
@@ -21,7 +24,8 @@
   "short_desc": "A black hole for Internet advertisements",
   "author": "pi-hole.net",
   "source": "https://github.com/pi-hole/pi-hole",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "password",
       "label": "Password",
@@ -37,8 +41,10 @@
       "env_variable": "NETWORK_INTERFACE"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

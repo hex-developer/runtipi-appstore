@@ -7,14 +7,16 @@
   "id": "podfetch",
   "tipi_version": 3,
   "version": "latest",
-  "categories": [
+  "categories":
+  [
     "media"
   ],
   "description": "A sleek and efficient podcast downloader.",
   "short_desc": "A sleek and efficient podcast downloader.",
   "author": "SamTV12345",
   "source": "https://github.com/SamTV12345/PodFetch",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "PodFetch Username",
@@ -48,5 +50,10 @@
       "env_variable": "PODFETCH_PODINDEX_API_SECRET"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1680642371000
 }

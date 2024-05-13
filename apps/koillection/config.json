@@ -8,18 +8,21 @@
   "description": "Koillection is a self-hosted service allowing users to manage any kind of collections.",
   "tipi_version": 11,
   "version": "1.5.9",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "short_desc": "Koillection allow you to manage any kind of collections.",
   "author": "https://github.com/benjaminjonard",
   "source": "https://github.com/benjaminjonard/koillection",
   "website": "https://koillection.github.io/",
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "amd64",
     "arm64"
   ],
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "database user",
@@ -34,5 +37,6 @@
       "max": 30,
       "env_variable": "KOILLECTION_DB_PASSWORD"
     }
-  ]
+  ],
+  "created": 1696149437000
 }

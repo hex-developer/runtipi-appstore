@@ -10,14 +10,16 @@
   "uid": 1000,
   "gid": 1000,
   "version": "0.15.0",
-  "categories": [
+  "categories":
+  [
     "social"
   ],
   "description": "Fast, fun, ActivityPub server, powered by Go.",
   "short_desc": "Fast, fun, ActivityPub server, powered by Go.",
   "author": "superseriousbusiness",
   "source": "https://github.com/superseriousbusiness/gotosocial",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "GoToSocial DB Password",
@@ -28,7 +30,8 @@
       "label": "Sign Ups",
       "type": "text",
       "required": true,
-      "options": [
+      "options":
+      [
         {
           "label": "Open Sign Up",
           "value": "true"
@@ -76,8 +79,10 @@
       "env_variable": "GTS_SMTP_FROM"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1682996224000
 }

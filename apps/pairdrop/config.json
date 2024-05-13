@@ -7,7 +7,8 @@
   "id": "pairdrop",
   "tipi_version": 26,
   "version": "1.10.8",
-  "categories": [
+  "categories":
+  [
     "media",
     "data",
     "utilities"
@@ -18,8 +19,10 @@
   "source": "https://github.com/schlagmichdoch/PairDrop",
   "website": "https://pairdrop.net/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1682342279000
 }

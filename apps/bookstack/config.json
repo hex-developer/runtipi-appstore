@@ -10,12 +10,14 @@
   "description": "BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. Default login: admin@admin.com password: password",
   "short_desc": "BookStack is a self-hosted platform for organising and storing information.",
   "author": "Dan Brown",
-  "categories": [
+  "categories":
+  [
     "data"
   ],
   "website": "https://www.bookstackapp.com/",
   "source": "https://github.com/BookStackApp/BookStack",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Database password",
@@ -25,8 +27,10 @@
       "env_variable": "BOOKSTACK_DB_PASS"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1661801206000
 }

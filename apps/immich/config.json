@@ -7,7 +7,8 @@
   "id": "immich",
   "tipi_version": 88,
   "version": "1.103.1",
-  "categories": [
+  "categories":
+  [
     "data",
     "photography"
   ],
@@ -16,7 +17,8 @@
   "author": "Alex Tran",
   "website": "https://www.immich.app/",
   "source": "https://github.com/immich-app/immich",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "DB_PASSWORD",
@@ -36,8 +38,10 @@
       "env_variable": "IMMICH_TYPESENSE_API_KEY"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1662893526000
 }

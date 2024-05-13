@@ -7,7 +7,8 @@
   "id": "tautulli",
   "tipi_version": 14,
   "version": "2.13.4",
-  "categories": [
+  "categories":
+  [
     "media",
     "utilities"
   ],
@@ -16,8 +17,10 @@
   "author": "JonnyWong16",
   "source": "https://github.com/Tautulli/Tautulli",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

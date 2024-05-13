@@ -7,7 +7,8 @@
   "tipi_version": 11,
   "version": "0.8.13",
   "id": "homepage",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages.",
@@ -15,8 +16,10 @@
   "author": "gethomepage",
   "source": "https://github.com/gethomepage/homepage",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1702572663000
 }

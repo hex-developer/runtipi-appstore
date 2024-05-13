@@ -7,14 +7,16 @@
   "id": "bitmagnet",
   "tipi_version": 18,
   "version": "0.8.0",
-  "categories": [
+  "categories":
+  [
     "media"
   ],
   "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.  ",
   "short_desc": "A self-hosted BitTorrent indexer.",
   "author": "bitmagnet-io",
   "source": "https://github.com/bitmagnet-io/bitmagnet",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "BITMAGNENT_DB_PASSWORD",
@@ -22,8 +24,10 @@
       "env_variable": "BITMAGNENT_DB_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1701934535000
 }

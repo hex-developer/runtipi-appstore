@@ -7,7 +7,8 @@
   "id": "filebrowser",
   "tipi_version": 4,
   "version": "s6",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Reliable and Performant File Management Desktop Sync and File Sharing\n Default credentials: admin / admin",
@@ -16,8 +17,10 @@
   "website": "https://filebrowser.org/",
   "source": "https://github.com/filebrowser/filebrowser",
   "form_fields": [],
-  "supported_architectures": [
-    "arm64", 
+  "supported_architectures":
+  [
+    "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1659030372000
 }

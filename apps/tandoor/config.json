@@ -7,7 +7,8 @@
   "id": "tandoor",
   "tipi_version": 13,
   "version": "1.5.17",
-  "categories": [
+  "categories":
+  [
     "data"
   ],
   "description": "Drop your collection of links and notes. Get Tandoor and never look back onto a time without recipe management, storage, sharing and collaborative cooking!",
@@ -15,7 +16,8 @@
   "author": "Tandoor Recipes",
   "source": "https://github.com/TandoorRecipes/recipes",
   "website": "https://tandoor.dev/",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Tandoor Secret Key",
@@ -29,8 +31,10 @@
       "env_variable": "TANDOOR_POSTGRESS_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1691924332000
 }

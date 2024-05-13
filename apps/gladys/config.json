@@ -7,7 +7,8 @@
   "id": "gladys",
   "tipi_version": 35,
   "version": "4.41.0",
-  "categories": [
+  "categories":
+  [
     "automation"
   ],
   "description": "A privacy-first, open-source home assistant",
@@ -16,8 +17,10 @@
   "source": "https://github.com/gladysassistant/gladys",
   "website": "https://gladysassistant.com/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1680244027000
 }
