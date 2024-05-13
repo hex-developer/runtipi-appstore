@@ -1,0 +1,21 @@
+name: Update config
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  ci:
+    if: "!contains(github.head_ref, 'renovate/')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.5
+
+      - name: Set up Nushell
+        uses: hustcer/setup-nu@v3.10
+        with:
+          version: "v0.93"
+      - name: Update created field in apps
+        run: ls apps/ | where type == dir and name != apps/__tests__ | each { |$it| mut $i = (open ([$it.name, /config.json] | str join)); if ("created" not-in ...($i | columns)) { $i = ($i | insert created ((git log -n 1 --date=unix '--pretty=%at' --diff-filter=A ([$it.name, /metadata/*.md] | str join)) | into int | $in * 1000)) }; $i | to json | save -f ([$it.name, /config.json] | str join) }
+        shell: nu {0}
