@@ -7,7 +7,8 @@
   "id": "uptime-kuma",
   "tipi_version": 3,
   "version": "1",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "It is a self-hosted monitoring tool like Uptime Robot.",
@@ -15,5 +16,10 @@
   "author": "louislam",
   "source": "https://github.com/louislam/uptime-kuma",
   "form_fields": [],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1715623655000
 }

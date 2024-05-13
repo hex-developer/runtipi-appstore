@@ -7,14 +7,16 @@
   "id": "linkwarden",
   "tipi_version": 18,
   "version": "2.5.3",
-  "categories": [
+  "categories":
+  [
     "data"
   ],
   "description": "A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.",
   "short_desc": "A self-hosted, open-source collaborative bookmark manager",
   "author": "Linkwarden",
   "source": "https://github.com/linkwarden/linkwarden",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Linkwarden DB Password",
@@ -36,8 +38,10 @@
       "env_variable": "LINKWARDEN_NEXT_PUBLIC_DISABLE_REGISTRATION"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

@@ -7,7 +7,8 @@
   "id": "whoogle",
   "tipi_version": 3,
   "version": "0.8.4",
-  "categories": [
+  "categories":
+  [
     "social"
   ],
   "description": "Get Google search results, but without any ads, JavaScript, AMP links, cookies, or IP address tracking.",
@@ -15,8 +16,10 @@
   "author": "Ben Busby",
   "source": "https://github.com/benbusby/whoogle-search",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

@@ -7,14 +7,16 @@
   "id": "librephotos",
   "tipi_version": 14,
   "version": "2023w48",
-  "categories": [
+  "categories":
+  [
     "photography"
   ],
   "description": "Complete photo management service",
   "short_desc": "Complete photo management service",
   "author": "Niaz Faridani-Rad",
   "source": "https://github.com/LibrePhotos/librephotos",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "email",
       "label": "LibrePhotos admin email",
@@ -48,8 +50,10 @@
       "env_variable": "LIBREPHOTOS_SECRET_KEY"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

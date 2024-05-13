@@ -7,7 +7,8 @@
   "exposable": true,
   "tipi_version": 6,
   "version": "2.4.0",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Simple server for sending and receiving notification messages.",
@@ -15,7 +16,8 @@
   "author": "gotigy",
   "source": "https://github.com/gotify/server",
   "website": "https://gotify.net",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Gotify username",
@@ -33,5 +35,10 @@
       "env_variable": "GOTIFY_DEFAULTUSER_PASS"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1715623655000
 }

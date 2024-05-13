@@ -9,7 +9,8 @@
   "id": "2fauth",
   "tipi_version": 15,
   "version": "5.1.1",
-  "categories": [
+  "categories":
+  [
     "security"
   ],
   "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.",
@@ -18,8 +19,10 @@
   "source": "https://github.com/Bubka/2FAuth",
   "website": "https://docs.2fauth.app/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

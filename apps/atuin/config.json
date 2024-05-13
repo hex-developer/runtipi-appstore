@@ -7,7 +7,8 @@
   "id": "atuin",
   "tipi_version": 4,
   "version": "18.2.0",
-  "categories": [
+  "categories":
+  [
     "utilities",
     "development"
   ],
@@ -17,7 +18,8 @@
   "source": "https://github.com/atuinsh/atuin",
   "website": "https://atuin.sh",
   "no_gui": true,
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Atuin DB Password",
@@ -33,8 +35,10 @@
       "env_variable": "ATUIN_ALLOW_REGISTRATION"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "amd64",
     "arm64"
-  ]
+  ],
+  "created": 1715623655000
 }

@@ -7,7 +7,8 @@
   "id": "flowise",
   "tipi_version": 14,
   "version": "1.7.2",
-  "categories": [
+  "categories":
+  [
     "ai",
     "automation"
   ],
@@ -16,7 +17,8 @@
   "author": "flowise.ai",
   "source": "https://github.com/FlowiseAI/Flowise",
   "website": "https://flowiseai.com/",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Flowise Username",
@@ -75,8 +77,10 @@
       "env_variable": "DISABLE_FLOWISE_TELEMETRY"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

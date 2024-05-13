@@ -7,7 +7,8 @@
   "id": "lidarr",
   "tipi_version": 8,
   "version": "2.2.5",
-  "categories": [
+  "categories":
+  [
     "media",
     "music"
   ],
@@ -16,8 +17,10 @@
   "author": "lidarr.audio",
   "source": "https://github.com/Lidarr/Lidarr",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

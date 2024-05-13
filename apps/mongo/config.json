@@ -6,7 +6,8 @@
   "short_desc": "MongoDB is an open-source NoSQL database",
   "author": "MongoDB",
   "port": 27017,
-  "categories": [
+  "categories":
+  [
     "development",
     "data"
   ],
@@ -17,23 +18,29 @@
   "website": "https://www.mongodb.com/",
   "exposable": true,
   "no_gui": true,
-  "form_fields": [
+  "form_fields":
+  [
     {
-        "type": "text",
-        "label": "Admin Username",
-        "max": 50,
-        "min": 3,
-        "required": true,
-        "env_variable": "MONGO_INITDB_ROOT_USERNAME"
+      "type": "text",
+      "label": "Admin Username",
+      "max": 50,
+      "min": 3,
+      "required": true,
+      "env_variable": "MONGO_INITDB_ROOT_USERNAME"
     },
     {
-        "type": "password",
-        "label": "Admin Password",
-        "max": 50,
-        "min": 10,
-        "required": true,
-        "env_variable": "MONGO_INITDB_ROOT_PASSWORD"
+      "type": "password",
+      "label": "Admin Password",
+      "max": 50,
+      "min": 10,
+      "required": true,
+      "env_variable": "MONGO_INITDB_ROOT_PASSWORD"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1715623655000
 }

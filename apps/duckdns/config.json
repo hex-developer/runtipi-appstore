@@ -8,13 +8,21 @@
   "tipi_version": 1,
   "no_gui": true,
   "version": "b14c520a-ls8",
-  "categories": ["network"],
+  "categories":
+  [
+    "network"
+  ],
   "short_desc": "Duck DNS is a free Dynamic DNS service",
   "author": "linuxserver.io",
   "source": "https://github.com/linuxserver/docker-duckdns",
   "website": "https://docs.linuxserver.io/images/docker-duckdns/",
-  "supported_architectures": ["arm64", "amd64"],
-  "form_fields": [
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Subdomains (comma separated). E.g. `mydomain1,mydomain2`.",
@@ -43,5 +51,6 @@
       "required": false,
       "env_variable": "DUCKDNS_ENABLE_LOG_FILE"
     }
-  ]
+  ],
+  "created": 1715623655000
 }

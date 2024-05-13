@@ -7,7 +7,8 @@
   "id": "grafana",
   "tipi_version": 26,
   "version": "10.4.2",
-  "categories": [
+  "categories":
+  [
     "data"
   ],
   "description": "The open and composable observability and data visualization platform",
@@ -15,8 +16,10 @@
   "author": "Grafana Labs",
   "source": "https://github.com/grafana/grafana",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

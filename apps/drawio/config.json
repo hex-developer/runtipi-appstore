@@ -8,7 +8,8 @@
   "description": "draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
   "tipi_version": 40,
   "version": "24.4.0",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "short_desc": "Diagramming and whiteboarding app.",
@@ -16,8 +17,10 @@
   "source": "https://github.com/jgraph/drawio",
   "website": "https://www.drawio.com/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

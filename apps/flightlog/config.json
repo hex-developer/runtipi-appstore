@@ -7,8 +7,9 @@
   "id": "flightlog",
   "tipi_version": 1,
   "version": "2.0.1",
-  "categories": [
-    "utilities", 
+  "categories":
+  [
+    "utilities",
     "data"
   ],
   "description": "Easily keep track of your flight history",
@@ -16,8 +17,10 @@
   "author": "perdian",
   "source": "https://github.com/perdian/flightlog/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

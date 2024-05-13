@@ -6,7 +6,8 @@
   "id": "tailscale",
   "tipi_version": 26,
   "version": "1.64.2",
-  "categories": [
+  "categories":
+  [
     "network",
     "security"
   ],
@@ -16,8 +17,10 @@
   "source": "https://github.com/tailscale/tailscale",
   "website": "https://tailscale.com/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

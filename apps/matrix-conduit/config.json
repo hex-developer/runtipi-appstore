@@ -9,7 +9,8 @@
   "id": "matrix-conduit",
   "tipi_version": 5,
   "version": "0.7.0",
-  "categories": [
+  "categories":
+  [
     "social"
   ],
   "description": "Conduit is a fast Matrix homeserver that’s easy to set up and just works. You can install it on a mini-computer like the Raspberry Pi to host Matrix for your family, friends or company.",
@@ -17,7 +18,8 @@
   "author": "Timo Kösters",
   "source": "https://gitlab.com/famedly/conduit",
   "website": "https://matrix.org/docs/projects/server/conduit",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "boolean",
       "label": "Allow Registration",
@@ -71,8 +73,10 @@
       "env_variable": "TURN_SECRET"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

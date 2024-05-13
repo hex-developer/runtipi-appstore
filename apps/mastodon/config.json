@@ -9,14 +9,16 @@
   "id": "mastodon",
   "tipi_version": 18,
   "version": "4.2.8",
-  "categories": [
+  "categories":
+  [
     "social"
   ],
   "description": "Your self-hosted, globally interconnected microblogging community",
   "short_desc": "Your self-hosted, globally interconnected microblogging community",
   "author": "Mastodon",
   "source": "https://github.com/mastodon/mastodon",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Mastodon Redis Password",
@@ -93,8 +95,10 @@
       "env_variable": "MASTODON_LOCAL_DOMAIN"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

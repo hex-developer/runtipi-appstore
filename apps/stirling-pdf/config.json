@@ -7,7 +7,8 @@
   "id": "stirling-pdf",
   "tipi_version": 32,
   "version": "0.23.1",
-  "categories": [
+  "categories":
+  [
     "data",
     "utilities"
   ],
@@ -15,15 +16,18 @@
   "short_desc": "Powerful locally hosted web based PDF manipulation tool.",
   "author": "Frooodle",
   "source": "https://github.com/Frooodle/Stirling-PDF/",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "boolean",
       "label": "Docker > Enable Security",
       "env_variable": "STIRLING_PDF_DOCKER_ENABLE_SECURITY"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

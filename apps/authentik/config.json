@@ -8,14 +8,16 @@
   "tipi_version": 13,
   "version": "2024.4.1",
   "https": true,
-  "categories": [
+  "categories":
+  [
     "development"
   ],
   "description": "The authentication glue you need.",
   "short_desc": "The authentication glue you need.",
   "author": "goauthentik",
   "source": "https://github.com/goauthentik/authentik",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "AUTHENTIK_DB_PASSWORD",
@@ -29,8 +31,10 @@
       "env_variable": "AUTHENTIK_SECRET_KEY"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

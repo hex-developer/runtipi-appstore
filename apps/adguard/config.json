@@ -7,7 +7,8 @@
   "version": "0.107.48",
   "port": 8104,
   "id": "adguard",
-  "categories": [
+  "categories":
+  [
     "network",
     "security"
   ],
@@ -15,12 +16,15 @@
   "short_desc": "World's most advanced adblocker!",
   "author": "AdguardTeam",
   "source": "https://github.com/AdguardTeam",
-  "requirements": {
-    "ports": [
+  "requirements":
+  {
+    "ports":
+    [
       53
     ]
   },
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "ip",
       "label": "Network Interface (default: 0.0.0.0)",
@@ -28,8 +32,10 @@
       "env_variable": "NETWORK_INTERFACE"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

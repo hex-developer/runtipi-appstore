@@ -7,7 +7,8 @@
   "description": "Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.",
   "tipi_version": 2,
   "version": "2.0.53",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "short_desc": "Your favorite operating systems in one place.",
@@ -15,8 +16,10 @@
   "source": "https://github.com/netbootxyz/netboot.xyz",
   "website": "https://netboot.xyz/",
   "form_fields": [],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

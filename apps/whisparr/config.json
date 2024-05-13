@@ -7,7 +7,8 @@
   "id": "whisparr",
   "tipi_version": 2,
   "version": "nightly-2.0.0.313",
-  "categories": [
+  "categories":
+  [
     "media",
     "utilities"
   ],
@@ -15,7 +16,8 @@
   "short_desc": "Adult movie collection manager.",
   "author": "radarr.video",
   "source": "https://github.com/Whisparr/Whisparr",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "number",
       "label": "UID",
@@ -38,5 +40,10 @@
       "env_variable": "WHISPARR_UMASK"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1715623655000
 }

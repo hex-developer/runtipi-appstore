@@ -7,14 +7,16 @@
   "id": "paperless-ngx",
   "tipi_version": 33,
   "version": "2.8.3",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.",
   "short_desc": "Document Management System (DMS)",
   "author": "Daniel Quinn, Jonas Winkler, and the Paperless-ngx team",
   "source": "https://github.com/paperless-ngx/paperless-ngx",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Administrator Username",
@@ -38,7 +40,8 @@
       "type": "text",
       "hint": "Do you want to enable a Tika server for parsing and converting 'Office' documents (such as '.doc', '.xlsx' and '.odt')",
       "required": true,
-      "options": [
+      "options":
+      [
         {
           "label": "Yes",
           "value": "1"
@@ -51,8 +54,10 @@
       "env_variable": "PAPERLESS_TIKA_ENABLED"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

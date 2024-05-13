@@ -7,14 +7,16 @@
   "id": "romm",
   "tipi_version": 13,
   "version": "2.3.1",
-  "categories": [
+  "categories":
+  [
     "gaming"
   ],
   "description": "RomM (Rom Manager) is a web based retro roms manager integrated with IGDB.",
   "short_desc": "RomM (Rom Manager) is a web based retro roms manager integrated with IGDB.",
   "author": "Zurdi15",
   "source": "https://github.com/zurdi15/romm",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "ROMM_MYSQL_PASSWORD",
@@ -43,8 +45,10 @@
       "env_variable": "ROMM_STEAMGRIDDB_API_KEY"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

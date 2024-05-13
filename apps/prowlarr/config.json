@@ -7,7 +7,8 @@
   "id": "prowlarr",
   "tipi_version": 7,
   "version": "1.15.0.4361-ls63",
-  "categories": [
+  "categories":
+  [
     "media",
     "utilities"
   ],
@@ -16,5 +17,10 @@
   "author": "Prowlarr",
   "source": "https://github.com/Prowlarr/Prowlarr/",
   "form_fields": [],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1715623655000
 }

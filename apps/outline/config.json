@@ -5,7 +5,8 @@
   "short_desc": "A home for all your docs",
   "author": "outline",
   "port": 8404,
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "description": "Outline is a knowledge base designed for teams. It's goals are to be fast, intuitive and support many integrations.",
@@ -15,7 +16,8 @@
   "website": "https://getoutline.com",
   "exposable": true,
   "force_expose": true,
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "random",
       "label": "Outline secret key",
@@ -68,8 +70,10 @@
       "env_variable": "OUTLINE_PASSWORD"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

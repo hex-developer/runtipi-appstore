@@ -7,13 +7,15 @@
   "description": "Run windows in docker...because why not?",
   "tipi_version": 27,
   "version": "3.05",
-  "categories": [
+  "categories":
+  [
     "utilities"
   ],
   "short_desc": "Full windows vm in your browser",
   "author": "dockurr",
   "source": "https://github.com/dockur/windows/",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "number",
       "label": "RAM",
@@ -43,7 +45,8 @@
       "label": "Windows Version",
       "hint": "The windows version to use",
       "required": true,
-      "options": [
+      "options":
+      [
         {
           "label": "Windows 10",
           "value": "win10"
@@ -108,8 +111,10 @@
       "env_variable": "WINDOWS_VERSION"
     }
   ],
-  "supported_architectures": [
+  "supported_architectures":
+  [
     "arm64",
     "amd64"
-  ]
+  ],
+  "created": 1715623655000
 }

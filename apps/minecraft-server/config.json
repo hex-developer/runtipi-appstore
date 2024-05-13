@@ -8,12 +8,16 @@
   "id": "minecraft-server",
   "tipi_version": 2,
   "version": "latest",
-  "categories": ["gaming"],
+  "categories":
+  [
+    "gaming"
+  ],
   "description": "Minecraft Server",
   "short_desc": "Run a minecraft server",
   "author": "Geoff Bourne",
   "source": "https://github.com/itzg/docker-minecraft-server",
-  "form_fields": [
+  "form_fields":
+  [
     {
       "type": "text",
       "label": "Minecraft version",
@@ -23,5 +27,10 @@
       "env_variable": "MC_VERSION"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"]
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "created": 1715623655000
 }
