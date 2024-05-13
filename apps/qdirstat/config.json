@@ -7,8 +7,7 @@
   "id": "qdirstat",
   "tipi_version": 1,
   "version": "1.8.1-ls82",
-  "categories":
-  [
+  "categories": [
     "Utilities"
   ],
   "description": "QDirStat Qt-based directory statistics: KDirStat without any KDE -- from the author of the original KDirStat.",
@@ -16,10 +15,5 @@
   "author": "Stefan Hundhammer",
   "source": "https://github.com/linuxserver/docker-qdirstat",
   "form_fields": [],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1694135650000
+  "supported_architectures": ["arm64", "amd64"]
 }

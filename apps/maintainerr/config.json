@@ -6,8 +6,7 @@
   "id": "maintainerr",
   "tipi_version": 4,
   "version": "2.0.3",
-  "categories":
-  [
+  "categories": [
     "media",
     "utilities"
   ],
@@ -16,10 +15,8 @@
   "author": "jorenn92",
   "source": "https://github.com/jorenn92/Maintainerr",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1706553630000
+  ]
 }

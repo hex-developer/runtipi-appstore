@@ -6,8 +6,7 @@
   "id": "heimdall",
   "tipi_version": 2,
   "version": "2.6.1",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "Heimdall is a way to organise all those links to your most used web sites and web applications in a simple way",
@@ -16,10 +15,8 @@
   "source": "https://github.com/linuxserver/Heimdall",
   "website": "https://heimdall.site/",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1708100425000
+  ]
 }

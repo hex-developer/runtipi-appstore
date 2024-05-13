@@ -7,8 +7,7 @@
   "description": "The Cheshire Cat is an open-source, hackable and production-ready framework that allows developing intelligent personal AI assistant agents on top of Large Language Models (LLM).",
   "tipi_version": 3,
   "version": "1.6.1",
-  "categories":
-  [
+  "categories": [
     "ai"
   ],
   "short_desc": "A production-ready AI framework to develop AI agents.",
@@ -17,10 +16,8 @@
   "website": "https://cheshirecat.ai",
   "form_fields": [],
   "url_suffix": "/admin",
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "amd64",
     "arm64"
-  ],
-  "created": 1713883988000
+  ]
 }

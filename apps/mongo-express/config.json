@@ -6,8 +6,7 @@
   "short_desc": "Web-based MongoDB admin interface, written with Node.js and Express",
   "author": "MongoDB",
   "port": 8087,
-  "categories":
-  [
+  "categories": [
     "development",
     "data"
   ],
@@ -16,8 +15,7 @@
   "version": "1.0.2",
   "source": "https://github.com/mongo-express/mongo-express",
   "website": "https://www.mongodb.com/",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "ip",
       "label": "MongoDB Server IP Address",
@@ -59,10 +57,8 @@
       "env_variable": "ME_CONFIG_BASICAUTH_PASSWORD"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1696476400000
+  ]
 }

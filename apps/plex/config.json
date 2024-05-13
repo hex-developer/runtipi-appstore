@@ -8,8 +8,7 @@
   "tipi_version": 26,
   "version": "1.40.2",
   "url_suffix": "/web",
-  "categories":
-  [
+  "categories": [
     "media"
   ],
   "description": "",
@@ -17,10 +16,8 @@
   "author": "plexinc",
   "source": "https://github.com/plexinc/pms-docker",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1659030372000
+  ]
 }

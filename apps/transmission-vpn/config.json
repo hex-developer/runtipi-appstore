@@ -7,8 +7,7 @@
   "id": "transmission-vpn",
   "tipi_version": 8,
   "version": "5.3.1",
-  "categories":
-  [
+  "categories": [
     "utilities",
     "security"
   ],
@@ -16,8 +15,7 @@
   "short_desc": "BitTorrent client with VPN support.",
   "author": "haugene",
   "source": "https://github.com/haugene/docker-transmission-openvpn",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "numeric",
       "label": "Container > UserID (UID)",
@@ -64,8 +62,7 @@
       "label": "OpenVPN > Provider",
       "type": "text",
       "required": true,
-      "options":
-      [
+      "options": [
         {
           "label": "Custom Config.",
           "value": "CUSTOM"
@@ -286,8 +283,7 @@
       "label": "Transmission > WebUI",
       "type": "text",
       "required": true,
-      "options":
-      [
+      "options": [
         {
           "label": "Combustion",
           "value": "combustion"
@@ -342,10 +338,8 @@
       "env_variable": "TRANSMISSION_BLOCKLIST_URL"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1693477264000
+  ]
 }

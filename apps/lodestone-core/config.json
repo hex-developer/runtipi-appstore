@@ -8,10 +8,7 @@
   "id": "lodestone-core",
   "tipi_version": 7,
   "version": "0.4.4",
-  "categories":
-  [
-    "gaming"
-  ],
+  "categories": ["gaming"],
   "description": "A free, open source server hosting tool for Minecraft and other multiplayers",
   "short_desc": "Server hosting tool for Minecraft and other multiplayers",
   "author": "Lodestone-Team",
@@ -19,10 +16,5 @@
   "form_fields": [],
   "uid": 1000,
   "gid": 1000,
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1679208425000
+  "supported_architectures": ["arm64", "amd64"]
 }

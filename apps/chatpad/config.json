@@ -7,20 +7,12 @@
   "id": "chatpad",
   "tipi_version": 3,
   "version": "latest",
-  "categories":
-  [
-    "ai"
-  ],
+  "categories": ["ai"],
   "description": "Not just another ChatGPT user-interface!",
   "short_desc": "Not just another ChatGPT user-interface!",
   "author": "Andrei Canta",
   "source": "https://github.com/deiucanta/chatpad",
   "website": "https://chatpad.ai/",
   "form_fields": [],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1681420511000
+  "supported_architectures": ["arm64", "amd64"]
 }

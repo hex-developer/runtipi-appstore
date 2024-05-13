@@ -7,16 +7,14 @@
   "id": "ryot",
   "tipi_version": 25,
   "version": "2.24.2",
-  "categories":
-  [
+  "categories": [
     "media"
   ],
   "description": "Roll your own tracker!",
   "short_desc": "Roll your own tracker!",
   "author": "IgnisDa",
   "source": "https://github.com/IgnisDa/ryot",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "RYOT_DB_PASSWORD",
@@ -46,10 +44,5 @@
       "env_variable": "RYOT_VIDEO_GAMES_TWITCH_CLIENT_SECRET"
     }
   ],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1695047374000
+  "supported_architectures": ["arm64", "amd64"]
 }

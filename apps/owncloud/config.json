@@ -7,8 +7,7 @@
   "id": "owncloud",
   "tipi_version": 11,
   "version": "10.14.0",
-  "categories":
-  [
+  "categories": [
     "data"
   ],
   "description": "ownCloud gives you freedom and control over your own data. A personal cloud which runs on your own server.  ",
@@ -16,8 +15,7 @@
   "author": "https://github.com/owncloud",
   "source": "https://github.com/owncloud/core",
   "website": "https://owncloud.com/",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "OWNCLOUD_DB_PASSWORD",
@@ -41,10 +39,8 @@
       "env_variable": "OWNCLOUD_PASSWORD"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1677679109000
+  ]
 }

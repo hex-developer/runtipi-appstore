@@ -7,8 +7,7 @@
   "version": "0.7.3",
   "port": 8677,
   "id": "stalwart-mail",
-  "categories":
-  [
+  "categories": [
     "media",
     "network",
     "utilities"
@@ -18,10 +17,8 @@
   "author": "Stalwart Labs",
   "source": "https://github.com/stalwartlabs",
   "website": "https://stalw.art",
-  "requirements":
-  {
-    "ports":
-    [
+  "requirements": {
+    "ports": [
       25,
       143,
       465,
@@ -30,8 +27,7 @@
       4190
     ]
   },
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "ip",
       "label": "Network Interface (default: 0.0.0.0)",
@@ -39,10 +35,8 @@
       "env_variable": "NETWORK_INTERFACE"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1713952243000
+  ]
 }

@@ -7,8 +7,7 @@
   "id": "databag",
   "tipi_version": 2,
   "version": "latest",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "Databag is a federated chat app for self-hosting that focuses on user privacy and security; the service includes clients for iOS, Android, and browser.",
@@ -16,10 +15,5 @@
   "author": "balzack",
   "source": "https://github.com/balzack/databag",
   "form_fields": [],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1688150347000
+  "supported_architectures": ["arm64", "amd64"]
 }

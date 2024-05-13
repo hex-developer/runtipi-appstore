@@ -7,16 +7,14 @@
   "id": "umami",
   "tipi_version": 2,
   "version": "v1.40.0",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
   "short_desc": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
   "author": "umami-software",
   "source": "https://github.com/umami-software/umami",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "DB_PASSWORD",
@@ -30,10 +28,5 @@
       "env_variable": "HASH_SALT"
     }
   ],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1677573967000
+  "supported_architectures": ["arm64", "amd64"]
 }

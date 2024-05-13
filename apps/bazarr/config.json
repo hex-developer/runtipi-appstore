@@ -7,8 +7,7 @@
   "id": "bazarr",
   "tipi_version": 14,
   "version": "1.4.2",
-  "categories":
-  [
+  "categories": [
     "media",
     "utilities"
   ],
@@ -17,10 +16,8 @@
   "author": "morpheus65535",
   "source": "https://github.com/morpheus65535/bazarr",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1667477127000
+  ]
 }

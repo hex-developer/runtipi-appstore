@@ -7,8 +7,7 @@
   "id": "zigbee2mqtt",
   "tipi_version": 5,
   "version": "1.37.1",
-  "categories":
-  [
+  "categories": [
     "utilities",
     "automation"
   ],
@@ -17,8 +16,7 @@
   "author": "@Koenkk",
   "source": "https://github.com/Koenkk/zigbee2mqtt",
   "website": "https://www.zigbee2mqtt.io/",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "string",
       "label": "zigbee device path",
@@ -27,10 +25,8 @@
       "env_variable": "Z2M_DEVICE"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1708707822000
+  ]
 }

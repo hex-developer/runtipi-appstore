@@ -8,8 +8,7 @@
   "id": "traefik-certs-dumper",
   "tipi_version": 1,
   "version": "1.6.1",
-  "categories":
-  [
+  "categories": [
     "utilities",
     "security"
   ],
@@ -18,10 +17,5 @@
   "author": "kereis",
   "source": "https://github.com/kereis/traefik-certs-dumper",
   "form_fields": [],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1691580838000
+  "supported_architectures": ["arm64", "amd64"]
 }

@@ -7,16 +7,14 @@
   "id": "onedev",
   "tipi_version": 92,
   "version": "10.6.0",
-  "categories":
-  [
+  "categories": [
     "development"
   ],
   "description": "Self-hosted Git Server with Kanban and CI/CD",
   "short_desc": "Self-hosted Git Server with Kanban and CI/CD",
   "author": "https://code.onedev.io/",
   "source": "https://code.onedev.io/onedev/server",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "DB_PASSWORD",
@@ -48,10 +46,8 @@
       "env_variable": "ONEDEV_PASSWORD"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1677545342000
+  ]
 }

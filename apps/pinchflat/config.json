@@ -7,16 +7,14 @@
   "id": "pinchflat",
   "tipi_version": 3,
   "version": "0.1.18",
-  "categories":
-  [
+  "categories": [
     "media"
   ],
   "description": "Your next YouTube media manager",
   "short_desc": "Your next YouTube media manager",
   "author": "Kieran Eglin",
   "source": "https://github.com/kieraneglin/pinchflat",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "string",
       "hint": "if not set, no basic auth is used",
@@ -36,10 +34,8 @@
       "env_variable": "PINCHFLAT_BASIC_AUTH_PASSWORD"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1713697423000
+  ]
 }

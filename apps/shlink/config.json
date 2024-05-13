@@ -8,8 +8,7 @@
   "id": "shlink",
   "tipi_version": 5,
   "version": "3.7.4",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "Shlink is a self-hosted URL shortener which provides both a REST and a CLI interface to interact with it.",
@@ -17,8 +16,7 @@
   "author": "https://shlink.io/",
   "source": "https://github.com/shlinkio/shlink",
   "website": "https://shlink.io/",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "Database password",
@@ -26,10 +24,8 @@
       "env_variable": "SHLINK_POSTGRES_PASSWORD"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1701600194000
+  ]
 }

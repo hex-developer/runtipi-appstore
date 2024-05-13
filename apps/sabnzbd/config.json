@@ -7,8 +7,7 @@
   "id": "sabnzbd",
   "tipi_version": 14,
   "version": "4.3.1",
-  "categories":
-  [
+  "categories": [
     "media",
     "utilities"
   ],
@@ -17,10 +16,8 @@
   "author": "Sabnzbd",
   "source": "https://github.com/sabnzbd/sabnzbd",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1679680691000
+  ]
 }

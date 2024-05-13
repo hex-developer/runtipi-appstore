@@ -7,8 +7,7 @@
   "port": 8137,
   "tipi_version": 22,
   "version": "4.0.5",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
@@ -16,8 +15,7 @@
   "author": "Dullage",
   "source": "https://github.com/Dullage/flatnotes",
   "website": "https://demo.flatnotes.io/",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "text",
       "label": "Flatnotes Auth Type",
@@ -53,10 +51,8 @@
       "env_variable": "FLATNOTES_TOTP_KEY"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1677004199000
+  ]
 }

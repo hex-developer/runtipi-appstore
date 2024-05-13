@@ -8,8 +8,7 @@
   "https": true,
   "tipi_version": 5,
   "version": "4.3.2",
-  "categories":
-  [
+  "categories": [
     "gaming"
   ],
   "description": "Crafty 4 is the next iteration of our Minecraft Server Wrapper / Controller / Launcher.",
@@ -18,10 +17,8 @@
   "source": "https://gitlab.com/crafty-controller/crafty-4",
   "website": "https://craftycontrol.com/",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1705499573000
+  ]
 }

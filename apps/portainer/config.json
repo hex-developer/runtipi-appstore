@@ -8,8 +8,7 @@
   "id": "portainer",
   "tipi_version": 21,
   "version": "2.20.2-alpine",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "",
@@ -17,10 +16,8 @@
   "author": "portainer.io",
   "source": "https://github.com/portainer/portainer",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1659030372000
+  ]
 }

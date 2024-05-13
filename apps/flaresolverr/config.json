@@ -8,8 +8,7 @@
   "id": "flaresolverr",
   "tipi_version": 13,
   "version": "3.3.17",
-  "categories":
-  [
+  "categories": [
     "media",
     "security",
     "utilities"
@@ -20,10 +19,8 @@
   "source": "https://github.com/FlareSolverr/FlareSolverr",
   "website": "https://github.com/FlareSolverr/FlareSolverr",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1699212727000
+  ]
 }

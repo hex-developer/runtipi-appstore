@@ -7,17 +7,12 @@
   "id": "mixpost-pro",
   "tipi_version": 8,
   "version": "latest",
-  "categories":
-  [
-    "social",
-    "utilities"
-  ],
+  "categories": ["social", "utilities"],
   "description": "Mixpost it's the coolest Self-hosted social media management software.",
   "short_desc": "Self-hosted social media management. Schedule and organize your social content. ",
   "author": "Inovector",
   "source": "https://github.com/inovector/mixpost",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "Mixpost SQL Password",
@@ -45,10 +40,5 @@
       "env_variable": "MIXPOST_LICENSE_KEY"
     }
   ],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1684105469000
+  "supported_architectures": ["arm64", "amd64"]
 }

@@ -7,8 +7,7 @@
   "tipi_version": 3,
   "version": "stable",
   "id": "homeassistant",
-  "categories":
-  [
+  "categories": [
     "automation"
   ],
   "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.",
@@ -16,10 +15,8 @@
   "author": "ArneNaessens",
   "source": "https://github.com/home-assistant/core",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1659030372000
+  ]
 }

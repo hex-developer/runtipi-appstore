@@ -6,8 +6,7 @@
   "id": "octobot",
   "tipi_version": 8,
   "version": "1.0.10",
-  "categories":
-  [
+  "categories": [
     "automation",
     "finance"
   ],
@@ -16,10 +15,8 @@
   "author": "https://github.com/Drakkar-Software/",
   "source": "https://github.com/Drakkar-Software/OctoBot",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1700573978000
+  ]
 }

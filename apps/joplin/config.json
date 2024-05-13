@@ -7,8 +7,7 @@
   "id": "joplin",
   "tipi_version": 13,
   "version": "2.14.2",
-  "categories":
-  [
+  "categories": [
     "utilities"
   ],
   "description": "Default credentials: admin@localhost / admin",
@@ -16,8 +15,7 @@
   "author": "https://github.com/laurent22",
   "source": "https://github.com/laurent22/joplin",
   "website": "https://joplinapp.org",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "Joplin DB password",
@@ -26,10 +24,8 @@
       "env_variable": "JOPLIN_DB_PASSWORD"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1659030372000
+  ]
 }

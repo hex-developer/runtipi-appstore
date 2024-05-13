@@ -7,8 +7,7 @@
   "id": "emulatorjs",
   "tipi_version": 14,
   "version": "1.9.0",
-  "categories":
-  [
+  "categories": [
     "gaming"
   ],
   "description": "Self-hosted Javascript emulation for various system.",
@@ -16,10 +15,8 @@
   "author": "EmulatorJS",
   "source": "https://github.com/EmulatorJS/EmulatorJS",
   "form_fields": [],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1679371387000
+  ]
 }

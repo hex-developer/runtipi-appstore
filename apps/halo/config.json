@@ -9,16 +9,14 @@
   "version": "2.15.0",
   "description": "Halo is a powerful and easy-to-use open source website building tool.",
   "short_desc": "Halo - Open source website building tool.",
-  "categories":
-  [
+  "categories": [
     "social",
     "media"
   ],
   "author": "halo-dev",
   "source": "https://github.com/halo-dev/halo",
   "website": "https://halo.run",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "Database password",
@@ -31,10 +29,8 @@
       "env_variable": "HALO_EXTERNAL_URL"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
-  ],
-  "created": 1681653933000
+  ]
 }

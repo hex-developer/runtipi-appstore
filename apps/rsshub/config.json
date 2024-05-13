@@ -7,18 +7,13 @@
   "description": "RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.",
   "tipi_version": 1,
   "version": "2024-04-17",
-  "categories":
-  [
-    "utilities",
-    "media"
-  ],
+  "categories": ["utilities", "media"],
   "short_desc": "Everything is RSSible with RSSHub",
   "author": "https://github.com/DIYgod",
   "source": "https://github.com/DIYgod/RSSHub",
   "website": "https://docs.rsshub.app/",
   "url_suffix": "",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "password",
       "label": "Access Key",
@@ -28,10 +23,5 @@
       "env_variable": "ACCESS_KEY"
     }
   ],
-  "supported_architectures":
-  [
-    "amd64",
-    "arm64"
-  ],
-  "created": 1713509244000
+  "supported_architectures": ["amd64", "arm64"]
 }

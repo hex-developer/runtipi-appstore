@@ -14,10 +14,5 @@
   "categories": [],
   "source": "https://github.com/hay-kot/mealie",
   "form_fields": [],
-  "supported_architectures":
-  [
-    "arm64",
-    "amd64"
-  ],
-  "created": 1659030372000
+  "supported_architectures": ["arm64", "amd64"]
 }

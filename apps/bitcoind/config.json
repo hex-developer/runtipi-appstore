@@ -9,15 +9,13 @@
   "description": "Bitcoin core node",
   "tipi_version": 2,
   "version": "27.0",
-  "categories":
-  [
+  "categories": [
     "finance"
   ],
   "short_desc": "Bitcoin core node",
   "author": "Bitcoin developers",
   "source": "https://github.com/lncm/docker-bitcoind",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "number",
       "label": "DB Cache Size (In mb)",
@@ -38,8 +36,7 @@
       "hint": "Accept incoming connections from peers.",
       "required": false,
       "env_variable": "BITCOIND_LISTEN",
-      "options":
-      [
+      "options": [
         {
           "label": "Yes",
           "value": "1"
@@ -63,8 +60,7 @@
       "hint": "Enabled by default",
       "required": false,
       "env_variable": "BITCOIND_TXINDEX",
-      "options":
-      [
+      "options": [
         {
           "label": "Yes",
           "value": "1"
@@ -81,8 +77,7 @@
       "hint": "Enabled by default",
       "required": false,
       "env_variable": "BITCOIND_BLOOM_FILTERS",
-      "options":
-      [
+      "options": [
         {
           "label": "Yes",
           "value": "1"
@@ -99,8 +94,7 @@
       "hint": "Enabled by default",
       "required": false,
       "env_variable": "BITCOIND_BLOCK_FILTER",
-      "options":
-      [
+      "options": [
         {
           "label": "Yes",
           "value": "1"
@@ -112,10 +106,8 @@
       ]
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "amd64",
     "arm64"
-  ],
-  "created": 1710273740000
+  ]
 }
