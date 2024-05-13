@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - master
-
+permissions:
+  contents: write
 jobs:
   ci:
     if: "!contains(github.head_ref, 'renovate/')"
@@ -19,3 +20,10 @@ jobs:
       - name: Update created field in apps
         run: ls apps/ | where type == dir and name != apps/__tests__ | each { |$it| mut $i = (open ([$it.name, /config.json] | str join)); if ("created" not-in ...($i | columns)) { $i = ($i | insert created ((git log -n 1 --date=unix '--pretty=%at' --diff-filter=A ([$it.name, /metadata/*.md] | str join)) | into int | $in * 1000)) }; $i | to json | save -f ([$it.name, /config.json] | str join) }
         shell: nu {0}
+      - name : Push changes
+        run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "Update created field on new apps"
+            git push
