@@ -37,5 +37,6 @@
       "required": true,
       "env_variable": "HEDGEDOC_ADDPORT"
     }
-  ]
+  ],
+  "created": 1677562201000
 }

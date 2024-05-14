@@ -51,5 +51,6 @@
       "required": false,
       "env_variable": "DUCKDNS_ENABLE_LOG_FILE"
     }
-  ]
+  ],
+  "created": 1707224034000
 }

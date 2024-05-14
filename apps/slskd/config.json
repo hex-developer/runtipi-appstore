@@ -59,5 +59,6 @@
       "required": true,
       "env_variable": "SLSKD_REMOTE_CONFIGURATION"
     }
-  ]
+  ],
+  "created": 1712580056000
 }
