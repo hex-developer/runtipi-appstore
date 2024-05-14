@@ -49,6 +49,5 @@
       "required": true,
       "env_variable": "CHATGPT_UI_SUPERUSER_EMAIL"
     }
-  ],
-  "created": 1715623655000
+  ]
 }

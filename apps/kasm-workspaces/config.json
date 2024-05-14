@@ -21,6 +21,5 @@
     "arm64",
     "amd64"
   ],
-  "https": true,
-  "created": 1715623655000
+  "https": true
 }

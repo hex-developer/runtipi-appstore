@@ -37,6 +37,5 @@
       "placeholder": "1000",
       "env_variable": "SEEDSYNC_PGID"
     }
-  ],
-  "created": 1715623655000
+  ]
 }

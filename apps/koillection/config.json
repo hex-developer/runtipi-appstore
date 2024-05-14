@@ -37,6 +37,5 @@
       "max": 30,
       "env_variable": "KOILLECTION_DB_PASSWORD"
     }
-  ],
-  "created": 1715623655000
+  ]
 }
