@@ -135,6 +135,9 @@
     },
     "dynamic_config": {
       "type": "boolean"
+    },
+    "created": {
+      "type": "integer"
     }
   },
   "required": [
