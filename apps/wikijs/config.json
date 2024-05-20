@@ -5,10 +5,9 @@
   "available": true,
   "exposable": true,
   "id": "wikijs",
-  "tipi_version": 7,
-  "version": "2.5.302",
-  "categories":
-  [
+  "tipi_version": 8,
+  "version": "2.5.303",
+  "categories": [
     "media"
   ],
   "description": "A modern, lightweight and powerful wiki app built on NodeJS ",
@@ -16,8 +15,7 @@
   "author": "https://github.com/requarks",
   "source": "https://github.com/requarks/wiki",
   "website": "https://js.wiki/",
-  "form_fields":
-  [
+  "form_fields": [
     {
       "type": "random",
       "label": "WIKI_JS_DB_PASS",
@@ -25,8 +23,7 @@
       "env_variable": "WIKI_JS_DB_PASS"
     }
   ],
-  "supported_architectures":
-  [
+  "supported_architectures": [
     "arm64",
     "amd64"
   ],

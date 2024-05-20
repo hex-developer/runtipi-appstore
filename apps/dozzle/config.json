@@ -5,10 +5,9 @@
   "exposable": true,
   "port": 8013,
   "id": "dozzle",
-  "tipi_version": 24,
-  "version": "6.6.0",
-  "categories":
-  [
+  "tipi_version": 25,
+  "version": "6.6.2",
+  "categories": [
     "development"
   ],
   "description": "Dozzle is a small web based app to monitor Docker logs.",

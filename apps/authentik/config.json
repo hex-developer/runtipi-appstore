@@ -5,13 +5,10 @@
   "available": true,
   "exposable": true,
   "id": "authentik",
-  "tipi_version": 13,
-  "version": "2024.4.1",
+  "tipi_version": 16,
+  "version": "2024.4.2",
   "https": true,
-  "categories":
-  [
-    "development"
-  ],
+  "categories": ["development"],
   "description": "The authentication glue you need.",
   "short_desc": "The authentication glue you need.",
   "author": "goauthentik",
