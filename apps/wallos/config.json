@@ -7,7 +7,8 @@
   "id": "wallos",
   "tipi_version": 34,
   "version": "1.27.1",
-  "categories": [
+  "categories":
+  [
     "finance"
   ],
   "description": "Open-Source Personal Subscription Tracker",

@@ -8,7 +8,12 @@
   "id": "flaresolverr",
   "tipi_version": 14,
   "version": "3.3.18",
-  "categories": ["media", "security", "utilities"],
+  "categories":
+  [
+    "media",
+    "security",
+    "utilities"
+  ],
   "description": "FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection.",
   "short_desc": "Bypass Cloudflare and DDoS-GuARD.",
   "author": "FlareSolverr Team",

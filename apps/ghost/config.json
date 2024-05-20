@@ -7,7 +7,11 @@
   "id": "ghost",
   "tipi_version": 89,
   "version": "5.82.11",
-  "categories": ["social", "media"],
+  "categories":
+  [
+    "social",
+    "media"
+  ],
   "description": "Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.",
   "short_desc": "Ghost - Turn your audience into a business.",
   "author": "TryGhost",

@@ -7,7 +7,10 @@
   "id": "grafana",
   "tipi_version": 27,
   "version": "10.4.3",
-  "categories": ["data"],
+  "categories":
+  [
+    "data"
+  ],
   "description": "The open and composable observability and data visualization platform",
   "short_desc": "The open and composable observability and data visualization platform",
   "author": "Grafana Labs",

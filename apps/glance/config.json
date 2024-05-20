@@ -7,12 +7,20 @@
   "id": "glance",
   "tipi_version": 1,
   "version": "v0.4.0",
-  "categories": ["utilities"],
+  "categories":
+  [
+    "utilities"
+  ],
   "description": "A self-hosted dashboard that puts all your feeds in one place",
   "short_desc": "Super configurable dashboard",
   "author": "glanceapp",
   "source": "https://github.com/glanceapp/glance",
   "form_fields": [],
-  "supported_architectures": ["arm64", "amd64"],
-  "dynamic_config": true
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
+  "dynamic_config": true,
+  "created": 1715975084000
 }

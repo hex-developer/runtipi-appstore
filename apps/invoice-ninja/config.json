@@ -7,7 +7,10 @@
   "id": "invoice-ninja",
   "tipi_version": 3,
   "version": "5.8.57",
-  "categories": ["finance"],
+  "categories":
+  [
+    "finance"
+  ],
   "description": "Invoice Ninja is an invoicing application which makes sending invoices and receiving payments simple and easy. Our latest version is a clean slate rewrite of our popular invoicing application which builds on the existing feature set and adds a wide range of features and enhancements the community has asked for.",
   "short_desc": "Invoices, Expenses and Tasks built with Laravel, Flutter and React.",
   "author": "https://www.invoiceninja.org/",
@@ -39,6 +42,10 @@
       "env_variable": "INVOICE_NINJA_APP_KEY"
     }
   ],
-  "supported_architectures": ["arm64", "amd64"],
+  "supported_architectures":
+  [
+    "arm64",
+    "amd64"
+  ],
   "created": 1704636263000
 }
